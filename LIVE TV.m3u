@@ -1,136 +1,115 @@
 #EXTM3U
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/330px-Bangladesh_Television_Logo.svg.png",BTV
-http://iptv.kitv.live:1935/live/MTV-Live/Mtv-Live/1.m3u8
+https://google.com
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/BTV_Chattogram_Logo.svg/330px-BTV_Chattogram_Logo.svg.png",BTV Chittagong
-https://digi.jadoobroadband.workers.dev/SuperSport_Cricket_Live_TV/tracks-v1a1/mono.m3u8
+https://google.com
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png",BTV World
-https://freeott.site/discovery/Discovery_Channel.m3u8
+https://google.com
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sangsad_Television_Emblem.svg/330px-Sangsad_Television_Emblem.svg.png",Sangsad Bangladesh
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Ananda TV
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Asian TV
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",ATN Bangla
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Bangla TV
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Banglavision
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Bijoy TV
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Boishakhi Television
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 9
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel i
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Deepto TV
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Desh TV
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Ekushey Television
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Global Television
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Green TV
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",GTV
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Maasranga Television
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Mohona TV
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",My TV
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Nagorik
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",NTV
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",RTV
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",SA TV
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",ATN News
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 24
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",DBC News
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Ekattor TV
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Independent Television
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Jamuna Television
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",News24
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Somoy TV
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Gaan Bangla
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Duronto TV
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",T Sports HD
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Ananda_TV_Logo.png/330px-Ananda_TV_Logo.png",Ananda TV
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png",Asian TV
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/300px-ATN_Bangla.svg.png",ATN Bangla
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Bangla_TV_Logo.png/330px-Bangla_TV_Logo.png",Bangla TV
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/180px-Banglavision.svg.png",Banglavision
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/270px-BIJOY_TV_Logo_BD.png",Bijoy TV
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/300px-Boishakhi_TV_logo.svg.png",Boishakhi Television
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/300px-Channel9_bd.svg.png",Channel 9
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/288px-Channel-i.svg.png",Channel i
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",Deepto TV
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/DeshTV2022Logo.svg/330px-DeshTV2022Logo.svg.png",Desh TV
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/300px-Ekushey_Television_Logo.svg.png",Ekushey Television
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Global_Television_Bangladesh_Logo_2.png/300px-Global_Television_Bangladesh_Logo_2.png",Global Television
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png",Green TV
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/330px-GTVBangladeshLogo.png",GTV
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/270px-Maasranga_Television_Logo.jpg",Maasranga Television
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/300px-Mohona_tv_Logo.svg.png",Mohona TV
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Mytv_Bangladesh_Logo.png/390px-Mytv_Bangladesh_Logo.png",My TV
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/225px-Nagorik_TV_Logo.png",Nagorik
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/300px-NTV_%28Bangladesh%29_logo.svg.png",NTV
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/360px-Rtv_bangladesh.svg.png",RTV
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png",SA TV
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/180px-ATN_News_Logo_3.GIF",ATN News
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/300px-Channel24logo.svg.png",Channel 24
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/DBC_News_Logo.svg/375px-DBC_News_Logo.svg.png",DBC News
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/285px-Ekattor_TV_logo.svg.png",Ekattor TV
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/330px-Independent_Television_Logo.svg.png",Independent Television
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/375px-JamunaTV_logo.jpg",Jamuna Television
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/300px-News24logo%28BD%29.jpg",News24
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png",Somoy TV
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Gaan_Bangla_Logo.png/330px-Gaan_Bangla_Logo.png",Gaan Bangla
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",Duronto TV
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports
 http://ekdilhai.pro/Gazi_TV/tracks-v1a1/mono.m3u8?token=1ff8ea3e616617919fedf855a3b5846f
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Ekhon
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Nexus Television
-
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Ekhon_Logo.png/330px-Ekhon_Logo.png",Ekhon
+https://google.com
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Nexus_Television_Logo.png/375px-Nexus_Television_Logo.png",Nexus Television
+https://google.com
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png",Zee Bangla
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Zee Bangla HD
 http://103.151.60.174:7171/hoichoi24.com-manik-vai/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Zee Bangla Cinema
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://akamaividz2.zee5.com/image/upload/w_528,h_297,c_scale,f_webp,q_auto:eco/resources/0-9-zeebangla/channel_list/1170x658310781121.png",Zee Bangla HD
+http://103.151.60.174:7171/hoichoi24.com-manik-vai/tracks-v1a1/mono.m3u8
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/1/16/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg/330px-%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg",Zee Bangla Cinema
 http://103.151.60.2:5050/hoichoi24.com-help-you/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Sony Aath
 http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Sony Aath HD
 https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Sony_Aath_new.png/225px-Sony_Aath_new.png
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/330px-Star_Jalsha_logo_2023.png",Star Jalsha
-
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Star Jalsha HD
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Jalsha Movies HD 
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Jalsha Movies HD
 http://humsab.xyz/IN_STGOLD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/255px-Colors_Bangla.png", Colors Bangla
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Colors Bangla HD
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4b/Colors_Bangla_HD_with_slogan_%282021%29.png",Colors Bangla HD
 http://humsab.xyz/IN_STARGOLDSELECT/tracks-a1/mono.m3u8
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 00 
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 00
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 00
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 00
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 00 
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 00 
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 00
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 00
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 00
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 00 
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 00 
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 00
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 00
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 00
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 00 
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 00 
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 00
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 00
-
-
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Casi_Discovery_HD.png",Discovery HD
+https://freeott.site/discovery/Discovery_Channel.m3u8
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 48
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 49
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 50
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 51
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 52
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 53
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 54
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 55
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 56
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 57
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 58
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 59
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 60
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 61
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 62
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 63
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 64
