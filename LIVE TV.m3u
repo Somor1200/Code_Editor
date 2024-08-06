@@ -66,7 +66,7 @@ https://google.com
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/300px-News24logo%28BD%29.jpg",News24
 https://google.com
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png",Somoy TV
-https://google.com
+http://tv.cloudcdn.me:80/live.ts?channelId=115&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Gaan_Bangla_Logo.png/330px-Gaan_Bangla_Logo.png",Gaan Bangla
 https://google.com
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",Duronto TV
@@ -88,7 +88,8 @@ http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png",Star Sports 1 HD
 http://103.151.60.2:5050/hoichoi24.com-help-you/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/330px-Star_Jalsha_logo_2023.png",Star Jalsha
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Star Jalsha HD
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://www.disneystar.com/media/3061/star-jalsha-hd_22feb2019.png",Star Jalsha HD
+http://tv.cloudcdn.me:80/live.ts?channelId=116&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Jalsha Movies HD
 http://humsab.xyz/IN_STGOLD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/255px-Colors_Bangla.png", Colors Bangla
