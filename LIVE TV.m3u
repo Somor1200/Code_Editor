@@ -1,43 +1,45 @@
 #EXTM3U
 
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 1
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",BTV
 http://iptv.kitv.live:1935/live/MTV-Live/Mtv-Live/1.m3u8
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 2
+
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",BTV Chittagong
 https://digi.jadoobroadband.workers.dev/SuperSport_Cricket_Live_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 3
+
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",BTV World
 https://freeott.site/discovery/Discovery_Channel.m3u8
 
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 4
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Sangsad Bangladesh
 
 
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 5
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Ananda TV
 
 
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 6
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Asian TV
 
 
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 7
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",ATN Bangla
 
 
 
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 8
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Bangla TV
 
+
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Banglavision
+
+
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Bijoy TV
+
+
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Boishakhi Television
 
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 9
 
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel i
 
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 10
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Deepto TV
 
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 11
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 12
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 13
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 14
-
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 15
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Desh TV
 
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 16
 
