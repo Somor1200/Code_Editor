@@ -85,8 +85,8 @@ http://103.151.60.174:7171/hoichoi24.com-manik-vai/tracks-v1a1/mono.m3u8
 http://103.151.60.2:5050/hoichoi24.com-help-you/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Sony Aath
 http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:A1
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Sony Aath HD
-https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Sony_Aath_new.png/225px-Sony_Aath_new.png
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png",Star Sports 1 HD
+http://103.151.60.2:5050/hoichoi24.com-help-you/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/330px-Star_Jalsha_logo_2023.png",Star Jalsha
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Star Jalsha HD
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Jalsha Movies HD
