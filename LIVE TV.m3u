@@ -1,35 +1,23 @@
 #EXTM3U
-
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",BTV
 http://iptv.kitv.live:1935/live/MTV-Live/Mtv-Live/1.m3u8
-
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",BTV Chittagong
 https://digi.jadoobroadband.workers.dev/SuperSport_Cricket_Live_TV/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",BTV World
 https://freeott.site/discovery/Discovery_Channel.m3u8
-
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Sangsad Bangladesh
-
 
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Ananda TV
 
-
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Asian TV
-
 
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",ATN Bangla
 
-
-
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Bangla TV
-
 
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Banglavision
 
-
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Bijoy TV
-
 
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Boishakhi Television
 
@@ -84,7 +72,7 @@ https://freeott.site/discovery/Discovery_Channel.m3u8
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Duronto TV
 
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",T Sports HD
-
+http://ekdilhai.pro/Gazi_TV/tracks-v1a1/mono.m3u8?token=1ff8ea3e616617919fedf855a3b5846f
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Ekhon
 
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Nexus Television
@@ -92,11 +80,11 @@ https://freeott.site/discovery/Discovery_Channel.m3u8
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Zee Bangla
 
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Zee Bangla HD
-
+http://103.151.60.174:7171/hoichoi24.com-manik-vai/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Zee Bangla Cinema
-
+http://103.151.60.2:5050/hoichoi24.com-help-you/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Sony Aath
-
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Sony Aath HD
 
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Star Jalsha
@@ -104,11 +92,11 @@ https://freeott.site/discovery/Discovery_Channel.m3u8
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Star Jalsha HD
 
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Jalsha Movies HD 
-
+http://humsab.xyz/IN_STGOLD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="", Colors Bangla
 
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Colors Bangla HD
-
+http://humsab.xyz/IN_STARGOLDSELECT/tracks-a1/mono.m3u8
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 00 
 
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Channel 00
