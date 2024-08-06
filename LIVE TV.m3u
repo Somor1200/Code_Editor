@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",BTV
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/330px-Bangladesh_Television_Logo.svg.png",BTV
 http://iptv.kitv.live:1935/live/MTV-Live/Mtv-Live/1.m3u8
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",BTV Chittagong
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/BTV_Chattogram_Logo.svg/330px-BTV_Chattogram_Logo.svg.png",BTV Chittagong
 https://digi.jadoobroadband.workers.dev/SuperSport_Cricket_Live_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",BTV World
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png",BTV World
 https://freeott.site/discovery/Discovery_Channel.m3u8
-#EXTINF:-1,group-title="LIVE TV",tvg-logo="",Sangsad Bangladesh
+#EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sangsad_Television_Emblem.svg/330px-Sangsad_Television_Emblem.svg.png",Sangsad Bangladesh
 
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="",Ananda TV
 
