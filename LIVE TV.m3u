@@ -8,7 +8,7 @@ https://google.com
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sangsad_Television_Emblem.svg/330px-Sangsad_Television_Emblem.svg.png",Sangsad Bangladesh
 https://google.com
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Ananda_TV_Logo.png/330px-Ananda_TV_Logo.png",Ananda TV
-https://google.com
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gNR9e8M3P27IYrfKkOJe3vw/ts
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/150px-Asian_TV_Logo.svg.png",Asian TV
 https://google.com
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/300px-ATN_Bangla.svg.png",ATN Bangla
@@ -22,13 +22,13 @@ https://google.com
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/300px-Boishakhi_TV_logo.svg.png",Boishakhi Television
 https://google.com
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/300px-Channel9_bd.svg.png",Channel 9
-https://google.com
+http://176.119.29.52/live.ts?channelId=88&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/288px-Channel-i.svg.png",Channel i
-https://google.com
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gHSSZGNn7rfh8uhtlii0qSs/ts
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",Deepto TV
-https://google.com
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gEzIpWINPhEY1ezirKGzJTI/ts
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/13/DeshTV2022Logo.svg/330px-DeshTV2022Logo.svg.png",Desh TV
-https://google.com
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gDTz1bt_mCQ4ZBccukX14Bs/ts
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/300px-Ekushey_Television_Logo.svg.png",Ekushey Television
 https://google.com
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Global_Television_Bangladesh_Logo_2.png/300px-Global_Television_Bangladesh_Logo_2.png",Global Television
@@ -38,9 +38,9 @@ https://google.com
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/330px-GTVBangladeshLogo.png",GTV
 https://google.com
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/270px-Maasranga_Television_Logo.jpg",Maasranga Television
-https://google.com
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/300px-Mohona_tv_Logo.svg.png",Mohona TV
-https://google.com
+http://tv.cloudcdn.me/live.ts?channelId=103&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Mytv_Bangladesh_Logo.png/390px-Mytv_Bangladesh_Logo.png",My TV
 https://google.com
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/225px-Nagorik_TV_Logo.png",Nagorik
@@ -48,7 +48,7 @@ https://google.com
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/300px-NTV_%28Bangladesh%29_logo.svg.png",NTV
 https://google.com
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/360px-Rtv_bangladesh.svg.png",RTV
-https://google.com
+http://xtv.ooo:8080/4412823896/7155272299/245911
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png",SA TV
 https://google.com
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/180px-ATN_News_Logo_3.GIF",ATN News
@@ -62,7 +62,7 @@ https://google.com
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/330px-Independent_Television_Logo.svg.png",Independent Television
 https://google.com
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/375px-JamunaTV_logo.jpg",Jamuna Television
-https://google.com
+http://xtv.ooo:8080/4412823896/7155272299/245917
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/300px-News24logo%28BD%29.jpg",News24
 https://google.com
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png",Somoy TV
@@ -70,7 +70,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=115&uid=8164&deviceMac=00:1A:79:17:D4
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Gaan_Bangla_Logo.png/330px-Gaan_Bangla_Logo.png",Gaan Bangla
 https://google.com
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",Duronto TV
-https://google.com
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCOP0SGxn9Mab_ahDGdjUbw/ts
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports
 http://ekdilhai.pro/Gazi_TV/tracks-v1a1/mono.m3u8?token=1ff8ea3e616617919fedf855a3b5846f
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Ekhon_Logo.png/330px-Ekhon_Logo.png",Ekhon
