@@ -20,7 +20,7 @@ https://google.com
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/270px-BIJOY_TV_Logo_BD.png",Bijoy TV
 https://google.com
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/300px-Boishakhi_TV_logo.svg.png",Boishakhi Television
-https://google.com
+http://tv.cloudcdn.me:80/live.ts?channelId=86&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/300px-Channel9_bd.svg.png",Channel 9
 http://176.119.29.52/live.ts?channelId=88&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1,group-title="LIVE TV",tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/288px-Channel-i.svg.png",Channel i
