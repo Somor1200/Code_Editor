@@ -1,0 +1,50 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="STAR JALSHA HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c0/Star_Jalsha_HD_logo_%282019%29.png/revision/latest?cb=20210528110230" group-title="ENTERTAINMENT",STAR JALSHA HD
+https://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ZEE BANGLA HD" tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1750067959-21698999.png?v=8.3.6" group-title="ENTERTAINMENT",ZEE BANGLA HD
+https://tvsen5.aynaott.com/PNEb3v2q6GBk/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="COLORS BANGLA HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/08/Colors_Bangla_HD_logo_%282016-alt%29.png/revision/latest?cb=20210829014832" group-title="ENTERTAINMENT",COLORS BANGLA HD
+https://tvsen5.aynaott.com/u3LkNQ7UHhFX/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="COLORS BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/7/7e/Colors_Bangla_Cinema_logo_%282024-present%29.png/revision/latest?cb=20240529000723" group-title="ENTERTAINMENT",COLORS BANGLA CINEMA
+https://live.dinesh29.com.np/stream/jiotv/colorsbanglacinema/master.m3u8
+
+#EXTINF:-1 tvg-id="ZEE BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/00/Zee_Bangla_Cinema_%282025%29.png/revision/latest?cb=20250619024334" group-title="ENTERTAINMENT",ZEE BANGLA CINEMA
+https://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
+
+#EXTINF:-1 tvg-id="MAASRANGA" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a3/Maasranga_TV_HD_logo.png/revision/latest?cb=20230512073857" group-title="ENTERTAINMENT",MAASRANGA
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8?e=1753741198&amp;u=9a031201-22d8-4f7e-9516-7d246a8fedc3&amp;token=19e5421b215c0b8937049f0ea7e35a3d
+
+#EXTINF:-1 tvg-id="CHANNEL I" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/9d/Channel_i_HD_logo_2021.png/revision/latest?cb=20231125042918" group-title="NEWS",CHANNEL I
+https://tvsen6.aynaott.com/channeli/index.m3u8?e=1753741196&amp;u=9a031201-22d8-4f7e-9516-7d246a8fedc3&amp;token=c56d587b53ace5df98c0128c59b4eea6
+
+#EXTINF:-1 tvg-id="DEEPTO TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/98/Deepto_TV_HD_logo.png/revision/latest?cb=20231121102247" group-title="NEWS",DEEPTO TV
+https://tvsen5.aynaott.com/DeeptoTVHD/index.m3u8?token=e8dea967cdb1bb4fb60403b65c5c39bddac1119d-4063a206bdccc050d42d1736baaf9d68-
+
+#EXTINF:-1 tvg-id="T SPORTS HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png/revision/latest?cb=20231121101305" group-title="SPORTS",T SPORTS HD
+https://tvsen5.aynaott.com/tsports/index.m3u8?e=1753741198&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=d0887359c0f079f540d3a03673e9f0e3
+
+#EXTINF:-1 tvg-id="BANGLA VISION HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c0/Banglavision_HD.png/revision/latest?cb=20230512071222" group-title="NEWS",BANGLA VISION HD
+https://tvsen5.aynaott.com/banglavision/index.m3u8?e=1753741197&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=471c8c3f6a6fd5aad81f265f11e3ed2b
+
+#EXTINF:-1 tvg-id="NTV HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e1/NTV_HD_logo_2025.png/revision/latest?cb=20250713083648" group-title="NEWS",NTV HD
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8?token=b468f2298a4949e1e8eaa2ce89aafdad270d60ab-dd73c10aec176f33ede8e792c2c6eb99-1753734597-1753733697&remote=no_check_ip
+
+#EXTINF:-1 tvg-id="Channel 9 HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e4/Channel_9_HD.png/revision/latest?cb=20230701115510" group-title="NEWS",Channel 9 HD
+https://tvsen6.aynaott.com/channel9/index.m3u8?e=1753741202&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=fcef513d044b3117e5604d8d6223b025
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
